@@ -1,7 +1,7 @@
 title: my Github Site
 
-url: "http://jmstan.github.io/my-github-repo"
-baseurl: "/my-github-repo"
+url: "http://jmstan.github.io/my-github-repo/"
 
+baseurl: "/my-github-repo"
 permalink: pretty
 
