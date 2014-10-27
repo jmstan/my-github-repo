@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blog
 ---
 
@@ -26,4 +26,9 @@ title: Blog
                 </article>
 
             
+         {% for page in site.pages %}
+
+           <p><a href="{{site.url}}{{page.url}}">{{page.title}}</a></p> 
+
+             {% endfor %}  
 
