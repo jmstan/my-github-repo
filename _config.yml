@@ -1,6 +1,6 @@
 title: my Github Site
 
-url: "http://0.0.0.0:4000/my-github-repo"
+url: http://0.0.0.0:4000/my-github-repo
 
 baseurl: "/my-github-repo"
 permalink: pretty
