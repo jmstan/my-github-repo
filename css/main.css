@@ -102,6 +102,10 @@ nav ul {
     padding: 0;
 }
 
+nav ul a{
+   font-family: "freight-text-pro"; 
+}
+
 nav a {
     display: block;
     margin-bottom: 10px;
