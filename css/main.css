@@ -128,6 +128,11 @@ nav a {
     float:right;
 }
 
+.logo{
+    display: inline-block;
+}
+
+
 nav a:hover,
 nav a:visited {
     color: black;
@@ -136,6 +141,8 @@ nav a:visited {
 nav a:hover {
     text-decoration: underline;
 }
+
+
 
 /* ==============
     MOBILE: Main
