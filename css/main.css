@@ -86,7 +86,10 @@ body {
 .header-container,
 .footer-container,
 .main aside {
+    background-color: gray;
+
     }
+
 
 .title {
     color: white;
