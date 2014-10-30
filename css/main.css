@@ -107,8 +107,9 @@ nav ul {
 
 nav ul a{
    font-family: font-family: "adelle-sans"; 
-   font-size: 30px;
-    font-weight: 300;
+   font-size: 20px;
+   font-weight: 300;
+   letter-spacing: 1px;
 }
 
 nav a {
