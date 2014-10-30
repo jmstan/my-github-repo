@@ -124,8 +124,13 @@ nav a {
   float:left;
 }
 
+
 .nav-right{
     float:right;
+}
+
+.nav-left, .nav-right{
+    margin-top: 45px;
 }
 
 .logo{
