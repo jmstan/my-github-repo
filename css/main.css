@@ -86,7 +86,7 @@ body {
 .header-container,
 .footer-container,
 .main aside {
-    background-color: gray;
+    
 
     }
 
@@ -117,7 +117,7 @@ nav a {
     text-decoration: none;
     font-weight: bold;
 
-    color: white;
+    color: black;
     
 }
 
