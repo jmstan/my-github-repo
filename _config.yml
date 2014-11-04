@@ -10,9 +10,9 @@ baseurl: "my-github-repo/"
 permalink: pretty
 
 collections:
-	portfolio:
-		output: true	
-	gallery:
-		output: true
-	artblog:
-		output: true
+    portfolio:
+        output: true
+    gallery:
+        output: true
+    altBlog:
+        output: true
