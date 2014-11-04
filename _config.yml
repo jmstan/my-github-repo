@@ -8,7 +8,6 @@ url: "http://jmstan.github.io/my-github-repo/"
 
 baseurl: "my-github-repo/"
 permalink: pretty
-path: /cool/:path/
 
 collections:
 	portfolio:
