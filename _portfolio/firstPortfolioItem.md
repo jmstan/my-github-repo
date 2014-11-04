@@ -1,6 +1,6 @@
 ---
 title: My First Portfolio Item
-layout: generic
+layout: default
 
 ---
 
