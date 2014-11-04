@@ -5,9 +5,9 @@ tag: show
 ---
 
 
-                {% for item in site.portfolio %}
+{% for item in site.portfolio %}
+	
+	<a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a> - <small>{{ item.tag }}</small>
+	<p>{{item.author}}</p>
 
-           
-                	  <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-   
-                        {% endfor %}     
+{% endfor %}
