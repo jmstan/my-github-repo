@@ -76,6 +76,7 @@ body {
 
 .header-container {
     border-bottom: 20px solid #e44d26;
+    margin-top: 30px;
 }
 
 .footer-container,
@@ -86,8 +87,10 @@ body {
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
-}
+    
+
+    }
+
 
 .title {
     color: white;
@@ -102,27 +105,52 @@ nav ul {
     padding: 0;
 }
 
+nav ul a{
+   font-family: font-family: "adelle-sans"; 
+   font-size: 18px;
+   font-weight: 300;
+   letter-spacing: 1px;
+}
+
 nav a {
     display: block;
     margin-bottom: 10px;
     padding: 15px 0;
-
     text-align: center;
     text-decoration: none;
     font-weight: bold;
-
-    color: white;
-    background: #e44d26;
+    color: black;    
 }
+
+.nav-left{
+  float:left;
+}
+
+
+.nav-right{
+    float:right;
+}
+
+.nav-left, .nav-right{
+    margin-top: 45px;
+}
+
+.logo{
+    display: inline-block;
+    margin-left: 27px;
+}
+
 
 nav a:hover,
 nav a:visited {
-    color: white;
+    color: black;
 }
 
 nav a:hover {
     text-decoration: underline;
 }
+
+
 
 /* ==============
     MOBILE: Main
